@@ -9,7 +9,8 @@ DOI:10.1007/978-3-319-47106-8_16
 
 P6 version of this 3264 by 2448 full colour image also
 used in EuroGP 2024 GI for reducing LLC loads and stores
-in C.
+in C
+and GI@ICSE-2024
 
 - 20150620_140705.jpg JPEG 
 
