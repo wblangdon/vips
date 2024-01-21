@@ -22,7 +22,9 @@ in C.
 
 A small animation for Appendix A of
 GI @ ICSE 2024 "Deep Mutations have Little Impact"
-showing adding single digits converges to the Gaussian distribution
+showing an application of the 
+central limit theorem
+in which adding single digits converges to the Gaussian distribution
 as more digits are added
 can be found via
 http://www.cs.ucl.ac.uk/staff/W.Langdon/icse2024/langdon_2024_GI/add10.html
