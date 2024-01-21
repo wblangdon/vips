@@ -1,5 +1,7 @@
 # vips
-Datasets for EuroGP 2024 Genetic Improvement of Last Level Cache
+Datasets for EuroGP 2024 "Genetic Improvement of Last Level Cache"
+and 
+GI @ ICSE 2024 "Deep Mutations have Little Impact"
 
 Image from OpenCV experiments in
 SSBSE 2016 "API-Constrained Genetic Improvement"
@@ -18,4 +20,11 @@ in C.
   created by unmodified VIPS vipsthumbnail.exe
 
 
-20 January 2024
+A small animation for Appendix A of
+GI @ ICSE 2024 "Deep Mutations have Little Impact"
+showing adding single digits converges to the Gaussian distribution
+as more digits are added
+can be found via
+http://www.cs.ucl.ac.uk/staff/W.Langdon/icse2024/langdon_2024_GI/add10.html
+
+21 January 2024
